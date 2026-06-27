@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Data and large build artifacts (never committed)
+data/
+scratch/
+*.zarr
+*.zarr/
+*.nc
+*.npz
+*.parquet
+*.tar
+*.gz
+
+# OS noise
+.DS_Store
