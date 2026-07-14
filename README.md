@@ -108,5 +108,4 @@ Amazon S3 bucket with anonymous access, so no credentials are needed.
 
 ## License
 
-Released to the public domain under CC0 1.0. Work by U.S. Government employees is
-not subject to copyright in the United States (17 U.S.C. 105). See `LICENSE`.
+Released to the public domain under Creative Commons Zero 1.0 (see `LICENSE`).
